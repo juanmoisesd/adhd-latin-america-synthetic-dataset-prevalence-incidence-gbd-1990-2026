@@ -1,0 +1,33 @@
+{
+  "title": "Adhd Latin America Synthetic Dataset Prevalence Incidence Gbd 1990 2026",
+  "description": "Open research dataset: Adhd Latin America Synthetic Dataset Prevalence Incidence Gbd 1990 2026. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "latin america",
+    "dataset",
+    "open data",
+    "research"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026",
+      "scheme": "url"
+    }
+  ]
+}
