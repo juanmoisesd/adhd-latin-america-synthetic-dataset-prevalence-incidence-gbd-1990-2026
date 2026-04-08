@@ -1,0 +1,14 @@
+orcid_record:
+  id: "0000-0002-8401-8018"
+  full_name: "Juan Moisés de la Serna Tuya"
+  affiliations:
+    - Universidad Internacional de La Rioja (UNIR)
+  bio: "Research Psychologist and Data Scientist specializing in neuroscience and public health."
+  external_urls:
+    - https://juanmoisesdelaserna.es
+    - https://github.com/juanmoisesd
+  keywords:
+    - ADHD
+    - Neuroscience
+    - Data Science
+    - Latin America

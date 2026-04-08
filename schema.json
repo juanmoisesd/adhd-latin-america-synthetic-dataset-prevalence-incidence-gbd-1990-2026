@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ADHD Latin America Synthetic Dataset Schema",
+  "description": "Validation schema for the ADHD prevalence, incidence, and cases dataset.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "country": {
+        "type": "string",
+        "description": "Name of the country"
+      },
+      "year": {
+        "type": "integer",
+        "minimum": 1990,
+        "maximum": 2026,
+        "description": "Year of the observation"
+      },
+      "prevalence": {
+        "type": "number",
+        "description": "Prevalence rate (%)"
+      },
+      "incidence": {
+        "type": "number",
+        "description": "Incidence rate"
+      },
+      "n_cases": {
+        "type": "integer",
+        "description": "Total cases count"
+      }
+    },
+    "required": ["country", "year", "prevalence", "incidence", "n_cases"]
+  }
+}

@@ -1,0 +1,19 @@
+rule all:
+    input:
+        "results/paper_draft_v13_NHB.txt",
+        "results/tables/table1_calibration_all20_v12.csv"
+
+rule run_simulation:
+    output:
+        "results/paper_draft_v13_NHB.txt",
+        "results/tables/table1_calibration_all20_v12.csv"
+    shell:
+        "python3 orchestrator.py"
+
+rule validate_data:
+    input:
+        "data/raw/adhd_data.csv"
+    output:
+        "quality/validation_report.json"
+    shell:
+        "pytest tests/test_integrity.py"

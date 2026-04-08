@@ -1,0 +1,19 @@
+{
+  "project": "adhd-latam-synthetic",
+  "version": "1.2.0",
+  "files": [
+    {
+      "path": "data/raw/adhd_data.csv",
+      "sha256": "625e23f73c9657047e9c702b37a81719197f0aedf5ff6d39457c31912702d053"
+    },
+    {
+      "path": "README.md",
+      "sha256": "72192626215709b2cef60d5b04e9fcc2bf8bc6de95532ff0c873a78cdc4b4ffa"
+    },
+    {
+      "path": "setup.py",
+      "sha256": "93abe26cc81a3862acc34fc8eb0934b1df91fd9bdb1d61099305695bd3399465"
+    }
+  ],
+  "timestamp": "2026-04-08T03:51:07.839815Z"
+}

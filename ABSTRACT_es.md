@@ -1,0 +1,2 @@
+# Resumen
+Este conjunto de datos sintéticos estima la prevalencia, incidencia y número de casos de TDAH en 20 países de América Latina entre 1990 y 2026. Los datos han sido generados mediante modelos basados en la metodología de la Carga Global de Enfermedades (GBD), capturando tendencias regionales y nacionales. El repositorio está estructurado para maximizar la interoperabilidad FAIR y la seguridad de los datos de investigación.
