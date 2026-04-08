@@ -1,3 +1,4 @@
+import sys, os; sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 """
 Smoke Test v13 — Critical Transitions + EWS + OOS
 30/30 tests to verify the full v13 framework.
