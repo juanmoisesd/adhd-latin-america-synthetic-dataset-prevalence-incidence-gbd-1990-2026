@@ -1,5 +1,5 @@
 {
-  "builder": { "id": "https://github.com/juanmoisesd/..." },
+  "builder": { "id": "https://github.com/juanmoisesd/adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026" },
   "buildType": "https://slsa.dev/github-actions-build/v1",
-  "invocation": { ... }
+  "invocation": {}
 }
