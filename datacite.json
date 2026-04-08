@@ -1,0 +1,69 @@
+{
+  "data": {
+    "id": "10.5281/zenodo.19145316",
+    "type": "datasets",
+    "attributes": {
+      "doi": "10.5281/zenodo.19145316",
+      "creators": [
+        {
+          "name": "de la Serna Tuya, Juan Moisés",
+          "givenName": "Juan Moisés",
+          "familyName": "de la Serna Tuya",
+          "affiliation": [
+            {
+              "name": "Universidad Internacional de La Rioja (UNIR)"
+            }
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://orcid.org/0000-0002-8401-8018",
+              "nameIdentifierScheme": "ORCID",
+              "schemeUri": "https://orcid.org"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "ADHD in Latin America: Synthetic Dataset on Prevalence, Incidence and Case Numbers (GBD-based, 1990-2026)"
+        }
+      ],
+      "publisher": "Zenodo",
+      "publicationYear": 2026,
+      "types": {
+        "ris": "DATA",
+        "bibtex": "misc",
+        "citeproc": "dataset",
+        "schemaOrg": "Dataset",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "subjects": [
+        {
+          "subject": "ADHD"
+        },
+        {
+          "subject": "Latin America"
+        },
+        {
+          "subject": "Prevalence"
+        },
+        {
+          "subject": "Synthetic Dataset"
+        }
+      ],
+      "dates": [
+        {
+          "date": "2026-03-15",
+          "dateType": "Issued"
+        }
+      ],
+      "language": "en",
+      "rightsList": [
+        {
+          "rights": "CC0 1.0 Universal",
+          "rightsUri": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ]
+    }
+  }
+}

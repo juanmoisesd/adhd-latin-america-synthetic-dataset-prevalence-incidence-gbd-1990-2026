@@ -1,0 +1,6 @@
+variable_name,type,description,units,range,missing_value
+country,string,Name of the Latin American country,N/A,N/A,N/A
+year,integer,Year of the data point,years,1990-2026,N/A
+prevalence,float,Estimated prevalence rate,percentage,2.0-8.0,N/A
+incidence,float,Estimated incidence rate,rate,0.05-0.15,N/A
+n_cases,integer,Total estimated ADHD cases,count,1000-50000,N/A

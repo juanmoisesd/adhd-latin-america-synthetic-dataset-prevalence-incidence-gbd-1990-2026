@@ -1,26 +1,28 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "ADHD in Latin America: Synthetic Dataset on Prevalence, Incidence and Case Numbers (GBD-based, 1990–",
-  "version": "1.0.0",
-  "identifier": "https://github.com/juanmoisesd/adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026",
-  "datePublished": "2025",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "identifier": "adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026",
+  "name": "ADHD in Latin America: Synthetic Dataset Framework",
+  "description": "Framework and pipeline for generating and validating synthetic datasets for ADHD in Latin America.",
   "codeRepository": "https://github.com/juanmoisesd/adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "version": "1.2.0",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
+      "familyName": "de la Serna Tuya",
+      "name": "Juan Moisés de la Serna Tuya",
       "affiliation": {
         "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
+        "name": "UNIR"
       }
     }
   ],
   "programmingLanguage": [
-    "Python",
-    "Jupyter Notebook"
+    "Python"
   ],
-  "keywords": ""
+  "runtimePlatform": [
+    "Python 3.7+"
+  ]
 }

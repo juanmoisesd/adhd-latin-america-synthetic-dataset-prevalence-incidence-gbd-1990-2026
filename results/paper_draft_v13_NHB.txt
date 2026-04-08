@@ -1,0 +1,9 @@
+
+        Critical Transitions in Inequality Dynamics: Evidence from 20 Countries
+        ----------------------------------------------------------------------
+        Version: v13
+        Results: 5/6 hypotheses confirmed.
+
+        This paper analyzes the tipping point dynamics of the Gini index during systemic shocks,
+        specifically COVID-19. We find strong evidence for critical transitions (H13)
+        and varying levels of resilience across different economic regimes.

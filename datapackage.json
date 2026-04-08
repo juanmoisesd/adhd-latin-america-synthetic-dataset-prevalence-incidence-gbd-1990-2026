@@ -1,0 +1,32 @@
+{
+  "name": "adhd-latam-synthetic-dataset",
+  "title": "ADHD in Latin America: Synthetic Dataset (1990-2026)",
+  "version": "1.2.0",
+  "description": "Synthetic dataset on prevalence, incidence and cases of ADHD in Latin America.",
+  "resources": [
+    {
+      "name": "adhd_data",
+      "path": "data/raw/adhd_data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "country", "type": "string" },
+          { "name": "year", "type": "integer" },
+          { "name": "prevalence", "type": "number" },
+          { "name": "incidence", "type": "number" },
+          { "name": "n_cases", "type": "integer" }
+        ]
+      }
+    }
+  ],
+  "keywords": ["ADHD", "Latin America", "Prevalence"],
+  "license": "CC0-1.0",
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "orcid": "0000-0002-8401-8018",
+      "role": "author"
+    }
+  ]
+}

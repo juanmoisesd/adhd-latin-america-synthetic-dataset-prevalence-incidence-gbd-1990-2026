@@ -1,0 +1,6 @@
+identifier,relation_type,resource_type,comment
+10.5281/zenodo.19145316,isDescribedBy,Dataset,Main Zenodo archival entry
+10.6084/m9.figshare.31743112,isSupplementTo,Publication,Figshare complementary entry
+https://orcid.org/0000-0002-8401-8018,isCreatedBy,Person,Author ORCID
+https://juanmoisesdelaserna.es,isDocumentedBy,WebPage,Author official website
+https://github.com/juanmoisesd/research-hub,isPartOf,Repository,Research ecosystem

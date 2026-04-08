@@ -1,0 +1,34 @@
+{
+  "@context": "https://www.w3.org/ns/dcat#",
+  "@graph": [
+    {
+      "@id": "https://doi.org/10.5281/zenodo.19145316",
+      "@type": "Dataset",
+      "title": "ADHD in Latin America: Synthetic Dataset (GBD-based, 1990-2026)",
+      "description": "Synthetic dataset providing estimates for ADHD prevalence, incidence, and total cases in 20 Latin American countries from 1990 to 2026.",
+      "issued": "2026-03-15",
+      "modified": "2026-03-15",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Zenodo"
+      },
+      "creator": {
+        "@type": "Person",
+        "name": "Juan Moisés de la Serna Tuya",
+        "sameAs": "https://orcid.org/0000-0002-8401-8018"
+      },
+      "keyword": [
+        "ADHD",
+        "Latin America",
+        "Prevalence",
+        "Synthetic Dataset"
+      ],
+      "distribution": {
+        "@type": "Distribution",
+        "accessURL": "https://github.com/juanmoisesd/adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026",
+        "format": "CSV"
+      },
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

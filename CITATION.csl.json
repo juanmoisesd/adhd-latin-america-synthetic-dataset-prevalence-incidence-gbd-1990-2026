@@ -1,0 +1,22 @@
+[
+  {
+    "id": "delaserna2026_adhd_latam",
+    "type": "dataset",
+    "title": "ADHD in Latin America: Synthetic Dataset on Prevalence, Incidence and Case Numbers (GBD-based, 1990-2026)",
+    "author": [
+      {
+        "family": "de la Serna Tuya",
+        "given": "Juan Moisés"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [2026, 3, 15]
+      ]
+    },
+    "DOI": "10.5281/zenodo.19145316",
+    "URL": "https://github.com/juanmoisesd/adhd-latin-america-synthetic-dataset-prevalence-incidence-gbd-1990-2026",
+    "publisher": "Zenodo",
+    "license": "CC0-1.0"
+  }
+]
