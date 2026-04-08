@@ -1,0 +1,6 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "ADHD in Latin America: Synthetic Dataset",
+  "identifier": "10.5281/zenodo.19145316"
+}

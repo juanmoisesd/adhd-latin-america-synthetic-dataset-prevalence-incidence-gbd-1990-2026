@@ -1,0 +1,12 @@
+name: Sign Artifacts
+on:
+  release:
+    types: [published]
+jobs:
+  sign:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sign with Cosign
+        run: echo "cosign sign ..."
+        # Placeholder for actual cosign-installer and sign steps

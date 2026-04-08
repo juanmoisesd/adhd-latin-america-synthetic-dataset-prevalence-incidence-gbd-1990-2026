@@ -1,0 +1,5 @@
+{
+  "builder": { "id": "https://github.com/juanmoisesd/..." },
+  "buildType": "https://slsa.dev/github-actions-build/v1",
+  "invocation": { ... }
+}

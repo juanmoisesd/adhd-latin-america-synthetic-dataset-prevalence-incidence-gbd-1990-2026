@@ -1,0 +1,7 @@
+{
+  "@context": "https://raw.githubusercontent.com/reproducibility-guide/repro-prov/master/context.jsonld",
+  "@type": "Activity",
+  "name": "Synthetic Data Generation",
+  "used": "GBD 2019 Data",
+  "generated": "ADHD LA Synthetic Dataset"
+}
