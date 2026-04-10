@@ -1,0 +1,9 @@
+rule all:
+    input:
+        "data/analysis_ready/adhd_la_synthetic.csv"
+
+rule generate_data:
+    output:
+        "data/analysis_ready/adhd_la_synthetic.csv"
+    script:
+        "../scripts/etl/main.py"

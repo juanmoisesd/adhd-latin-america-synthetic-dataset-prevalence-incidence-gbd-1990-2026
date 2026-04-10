@@ -1,0 +1,10 @@
+[
+  {
+    "type": "dataset",
+    "id": "delaserna2024_adhd_latin_america_synthe",
+    "title": "ADHD in Latin America: Synthetic Dataset on Prevalence, Incidence and Case Numbers",
+    "author": [{"family": "de la Serna Tuya", "given": "Juan Moisés"}],
+    "issued": {"date-parts": [[2024]]},
+    "DOI": "10.5281/zenodo.19145316"
+  }
+]

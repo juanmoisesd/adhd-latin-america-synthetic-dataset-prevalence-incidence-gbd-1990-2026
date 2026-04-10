@@ -1,0 +1,9 @@
+=== ADHD Dataset Integrity Verification ===
+[1/3] Verifying SHA256 Checksums...
+✓ SHA256 Checksums OK
+[2/3] Verifying SHA512 Checksums...
+✓ SHA512 Checksums OK
+[3/3] Verifying Merkle Root...
+✓ Merkle Root Verified: 38259f3529149bc2c91a35a5dc4a82d674b34972c4627649e88263f27dc937d2
+===========================================
+ALL INTEGRITY CHECKS PASSED

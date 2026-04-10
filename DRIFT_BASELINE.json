@@ -1,0 +1,7 @@
+{
+  "baseline_period": "1990-2019",
+  "metrics": {
+    "mean_prevalence": 2500,
+    "std_prevalence": 500
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_type": "link",
+  "name": "data-generation",
+  "command": [
+    "python3",
+    "scripts/etl/main.py"
+  ],
+  "materials": {
+    "scripts/etl/main.py": {
+      "sha256": "4b978d4a964f433f99a805562719601d00693a903248383e2069e23737b8d745"
+    }
+  },
+  "products": {
+    "data/analysis_ready/adhd_la_synthetic.csv": {
+      "sha256": "4b978d4a964f433f99a805562719601d00693a903248383e2069e23737b8d745"
+    }
+  },
+  "byproducts": {
+    "return-value": 0,
+    "stdout": "Synthetic data generation complete.\n",
+    "stderr": ""
+  },
+  "signatures": []
+}

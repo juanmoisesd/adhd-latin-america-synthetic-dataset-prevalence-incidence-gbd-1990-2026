@@ -1,0 +1,49 @@
+{
+  "_type": "https://in-toto.io/Statement/v0.1",
+  "subject": [
+    {
+      "name": "adhd_la_synthetic.csv",
+      "digest": {
+        "sha256": "4b978d4a964f433f99a805562719601d00693a903248383e2069e23737b8d745"
+      }
+    }
+  ],
+  "predicateType": "https://slsa.dev/provenance/v0.2",
+  "predicate": {
+    "builder": {
+      "id": "https://github.com/jm-serna/adhd-latin-america/actions/runs/1"
+    },
+    "buildType": "https://github.com/jm-serna/adhd-latin-america/scripts/etl/main.py",
+    "invocation": {
+      "configSource": {
+        "uri": "git+https://github.com/jm-serna/adhd-latin-america",
+        "digest": {
+          "sha1": "0123456789abcdef0123456789abcdef01234567"
+        },
+        "entryPoint": "scripts/etl/main.py"
+      },
+      "parameters": {
+        "seed": 42,
+        "years": [1990, 2026]
+      }
+    },
+    "metadata": {
+      "buildStartedOn": "2024-03-20T12:00:00Z",
+      "buildFinishedOn": "2024-03-20T12:05:00Z",
+      "completeness": {
+        "parameters": true,
+        "environment": false,
+        "materials": true
+      },
+      "reproducible": true
+    },
+    "materials": [
+      {
+        "uri": "git+https://github.com/jm-serna/adhd-latin-america",
+        "digest": {
+          "sha1": "0123456789abcdef0123456789abcdef01234567"
+        }
+      }
+    ]
+  }
+}

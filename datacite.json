@@ -1,0 +1,9 @@
+{
+  "datacite": {
+    "creators": [{"name": "de la Serna Tuya, Juan Moisés"}],
+    "titles": [{"title": "ADHD in Latin America: Synthetic Dataset"}],
+    "publisher": "Zenodo",
+    "publicationYear": "2024",
+    "identifiers": [{"identifier": "10.5281/zenodo.19145316", "identifierType": "DOI"}]
+  }
+}

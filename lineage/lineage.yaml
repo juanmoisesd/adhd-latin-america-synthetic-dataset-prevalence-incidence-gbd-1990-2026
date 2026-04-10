@@ -1,0 +1,11 @@
+pipeline:
+  name: adhd-la-synthetic-generation
+  steps:
+    - name: extract
+      source: gbd_2019
+    - name: transform
+      script: scripts/etl/transform.py
+    - name: forecast
+      script: scripts/etl/forecast.py
+    - name: export
+      output: data/analysis_ready/adhd_la_synthetic.csv

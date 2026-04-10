@@ -1,0 +1,8 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ex: <http://example.org/> .
+
+ex:adhd_dataset a prov:Entity ;
+    prov:wasGeneratedBy ex:generation_activity .
+
+ex:generation_activity a prov:Activity ;
+    prov:used ex:gbd_source_data .
